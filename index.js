@@ -80,11 +80,16 @@ exports.decorateConfig = config => {
     css: `
       ${config.css || ''}
       .header_hamburgerMenuLeft {
+        display: none;
         top: 0px;
         right: ${side === 'left' ? '0px' : 'auto'};
         left: ${side === 'left' ? 'auto' : '0px'};
       }
 
+      .header_appTitle.jsx-558204130 {
+        display: none;
+      }
+      
       .header_windowControls {
         display: flex;
         flex-shrink: 1;
