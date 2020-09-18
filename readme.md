@@ -3,6 +3,8 @@
 > A minimalist version of the hyper-custom-controls by @guilhermerodz
 
 It does autohide titlebar and hamburger menu by default, but it is not configurable yet.
+And it is just a code example and probably can't be installed for now, because i don't have enough time nor a npm login to publish it.
+The real change is in the `index.js` file and you should be able to copy it over the @guilhermerodz/hyper-custom-controls-minimalist `index.js` and it works.
 
 > Add Mac-like controls to Hyper Terminal, but highly customizable
 
