@@ -1,8 +1,8 @@
 # hyper-custom-controls-minimalist
 
-> A minimalist version of the hyper-custom-controls from @gulhermerodz
+> A minimalist version of the hyper-custom-controls from @guilhermerodz
 
-It does autohide titlebar and hamburger menu by default, but its not configurable yet.
+It does autohide titlebar and hamburger menu by default, but it is not configurable yet.
 
 > Add Mac-like controls to Hyper Terminal, but highly customizable
 
