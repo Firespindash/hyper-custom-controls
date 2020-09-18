@@ -6,7 +6,7 @@ It does autohide titlebar and hamburger menu by default, but it is not configura
 
 > Add Mac-like controls to Hyper Terminal, but highly customizable
 
-*A screenshot taken from linux*
+*A screenshot taken from linux* \
 ![The visual approach](https://raw.githubusercontent.com/Firespindash/hyper-custom-controls-minimalist/master/media/result.png)
 
 ## Configuration
