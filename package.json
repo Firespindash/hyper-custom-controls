@@ -1,9 +1,9 @@
 {
-  "name": "hyper-custom-controls",
-  "description": "Add Mac-like controls to Hyper Terminal, but highly customizable",
-  "homepage": "https://github.com/guilhermerodz/hyper-custom-controls",
-  "version": "1.0.1",
+  "name": "hyper-custom-controls-minimalist",
+  "description": "A minimalist version of the hyper-custom-controls by @guilhemermerodz",
+  "homepage": "https://github.com/Firespindash/hyper-custom-controls-minimalist",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "author": "Guilherme Rodz"
+  "author": "Firespindash"
 }
