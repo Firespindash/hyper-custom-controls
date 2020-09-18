@@ -1,6 +1,6 @@
 # hyper-custom-controls-minimalist
 
-> A minimalist version of the hyper-custom-controls from @guilhermerodz
+> A minimalist version of the hyper-custom-controls by @guilhermerodz
 
 It does autohide titlebar and hamburger menu by default, but it is not configurable yet.
 
